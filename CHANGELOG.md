@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-## [v0.1.15](https://github.com/crenata/bejibun-cli/compare/v0.1.0...v0.1.15) - 2025-10-26
+## [v0.1.16](https://github.com/crenata/bejibun-cli/compare/v0.1.0...v0.1.16) - 2025-10-26
 
 ### 🩹 Fixes
 

@@ -1,6 +1,6 @@
 {
     "name": "@bejibun/cli",
-    "version": "0.1.15",
+    "version": "0.1.16",
     "description": "An installation cli for bejibun framework.",
     "author": "Havea Crenata <havea.crenata@gmail.com>",
     "license": "MIT",
@@ -13,6 +13,7 @@
     ],
     "type": "module",
     "main": "./dist/bin/configure.js",
+    "bin": "./dist/bin/configure.js",
     "scripts": {
         "build": "bun build ./bin/configure.ts --minify --target=bun --outfile ./dist/bin/configure.js",
         "deploy": "bun run build && bun publish --access public"
