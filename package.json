@@ -1,6 +1,6 @@
 {
     "name": "@bejibun/cli",
-    "version": "0.1.17",
+    "version": "0.1.18",
     "description": "An installation cli for bejibun framework.",
     "author": "Havea Crenata <havea.crenata@gmail.com>",
     "license": "MIT",
