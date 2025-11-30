@@ -3,12 +3,27 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [v0.1.19](https://github.com/crenata/bejibun-cli/compare/v0.1.16...v0.1.19) - 2025-10-30
+
+### 🩹 Fixes
+
+### 📖 Changes
+- Remove `.git` directory.
+- Copy `.env.example` into `.env` and rename the app name.
+
+### ❤️Contributors
+- Havea Crenata ([@crenata](https://github.com/crenata))
+
+**Full Changelog**: https://github.com/crenata/bejibun-cli/blob/master/CHANGELOG.md
+
+---
+
 ## [v0.1.16](https://github.com/crenata/bejibun-cli/compare/v0.1.0...v0.1.16) - 2025-10-26
 
 ### 🩹 Fixes
 
 ### 📖 Changes
-First release of Bejibun CLI
+First release of Bejibun CLI.
 
 An installation cli for [Bejibun](https://github.com/crenata/bejibun) framework.
 
